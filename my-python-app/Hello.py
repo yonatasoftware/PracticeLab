@@ -8,4 +8,4 @@ if __name__ == "__main__":
     user = input("Enter your name: ")
     age = input("Enter your age ")
     print(greet(user,age))
-    print(age)
+  
